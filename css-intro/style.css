@@ -24,3 +24,7 @@ section{
     font-size: 40px;
     font-weight: 800px;
 }
+
+.d-line{
+    display: inline;
+}
