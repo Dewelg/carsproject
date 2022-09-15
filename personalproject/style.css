@@ -1,0 +1,32 @@
+
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bolder;
+    text-decoration: line-through;
+    font-size: 50px;
+    padding-top: 20px;
+    text-shadow: 2px 2px 0px #FF0000;
+}
+
+header{
+    background: radial-gradient(#c5574f, #FF0000);
+    height: 100px;
+    width: screen;
+   
+}
+
+.griditems{
+    display: grid;
+}
+
+
+#grid{
+    background-color: green;
+}
+
+#sec1{
+    background-color: black;
+}
